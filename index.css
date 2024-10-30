@@ -1,0 +1,74 @@
+body {
+  text-align: center;
+  background-color: #F4A460;
+  margin: 0%;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #123524;
+  font-family: "Arvo", bold;
+  text-shadow: 6px 0 #353839;
+}
+
+footer {
+  color: #123524;
+  font-size: 2rem;
+  margin: 10px;
+}
+
+.bittern {
+background-image: url("images/bittern.jpg");
+}
+
+.bustard {
+background-image: url("images/bustard.jpg");
+}
+
+.koel {
+background-image: url("images/koel.jpg");
+}
+
+.nightjar {
+background-image: url("images/nightjar.jpg");
+}
+
+.pigeon {
+background-image: url("images/pigeon.jpg");
+}
+
+.puffin {
+background-image: url("images/puffin.jpg");
+}
+
+.seagull {
+background-image: url("images/seagull.jpg");
+}
+
+.birds {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #F4A460;
+  opacity: 0.5;
+}
+
+.bird {
+  outline: none;
+  border: 100x solid #123524;
+  font-size: 3rem;
+  font-family: 'Arvo', bold;
+  line-height: 7;
+  font-weight: 70;
+  color: white;
+  text-shadow: 3px 0 black;
+  border-radius: 15px;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  margin: 10px;
+  background-size: cover;
+  cursor: pointer;
+}
